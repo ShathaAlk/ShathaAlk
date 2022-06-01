@@ -1,4 +1,4 @@
-<div align="center"><img src="https://i.ibb.co/1szc4K1/Typing.gif" alt="Typing" border="0" width="400" height="400"></div>
+<div align="center"><img src="https://i.ibb.co/bmDhT1X/Typing-bro.png" alt="Typing-bro" width="400" height="400"></div>
 <div id="badges" align="center">
    <a href="mailto:shatha.alkulaib@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail Badge"/>
@@ -51,7 +51,7 @@
 ---
 
 ### My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ShathaAlk&ring=DD9EC4E2&fire=DD9EC4E2&currStreakLabel=DD9EC4E2&background=000000&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=DD9EC4E2&dates=FFFFFFE2&border=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ShathaAlk&ring=E392B6&fire=E392B6&currStreakLabel=E392B6&background=000000&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=E392B6&dates=FFFFFFE2&border=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShathaAlk&langs_count=10&title_color=DD9EC4E2&text_color=ffffff&icon_color=DD9EC4E2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShathaAlk&langs_count=10&title_color=E392B6&text_color=ffffff&icon_color=E392B6&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages)](https://github.com/anuraghazra/github-readme-stats)
 
