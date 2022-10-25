@@ -1,3 +1,4 @@
+ <!--
 <div align="center"><img src="https://i.ibb.co/bmDhT1X/Typing-bro.png" alt="Typing-bro" width="400" height="400"></div>
 <div id="badges" align="center">
    <a href="mailto:shatha.alkulaib@gmail.com">
@@ -10,14 +11,14 @@
   <a href="your-Portfolio-URL">
     <img src="https://img.shields.io/badge/Portfolio-black?&style=flat-square" alt="Portfolio Badge"/>
   </a>
-  -->
+  
   <a href="https://www.linkedin.com/in/shatha-alkulaib/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
 
 ---
-
+-->
 ### Hello, Here is Shatha Alkulaib 👋
 
   Full Stack Developer | interested in building web applications | speck Arabic and English | KSA
