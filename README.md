@@ -28,7 +28,7 @@
 - :brain: Passionate about programming and everything related to it.
 - :computer: Interested in coding, problem-solving, testing, and building databases.
 - :mailbox: You can contact me at [shatha.alkulaib@gmail.com](mailto:shatha.alkulaib@gmail.com)
-- ⚡ Fun fact: I don't feel time when I work on coding.
+- ⚡ Fun fact: I don't feel time when I am coding.
   
 ---
 
