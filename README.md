@@ -57,5 +57,5 @@
 ### My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ShathaAlk&ring=E392B6&fire=E392B6&currStreakLabel=E392B6&background=000000&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=E392B6&dates=FFFFFFE2&border=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShathaAlk&langs_count=10&title_color=E392B6&text_color=ffffff&icon_color=E392B6&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShathaAlk&langs_count=5&title_color=E392B6&text_color=ffffff&icon_color=E392B6&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages)](https://github.com/anuraghazra/github-readme-stats)
 
