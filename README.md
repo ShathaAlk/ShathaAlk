@@ -21,12 +21,13 @@
 -->
 ### Hello, Here is Shatha Alkulaib 👋
 
-  Full Stack Developer | interested in building web applications | speck Arabic and English | KSA
+  Full Stack Developer | interested in building web applications | speak Arabic and English | KSA
   
   :seedling: <b>About Me :</b>
   
 - :brain: Passionate about programming and everything related to it.
 - :computer: Interested in coding, problem-solving, testing, and building databases.
+- :star2: My portfolio: https://shathaalk.github.io/github-Portfolio/
 - :mailbox: You can contact me at [shatha.alkulaib@gmail.com](mailto:shatha.alkulaib@gmail.com)
 - ⚡ Fun fact: I don't feel time when I am coding.
   
